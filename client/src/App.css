@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  width: 800px;
+}
+
+.student {
+  display: flex;
+  padding: 15px;
+  border: 2px solid teal;
+  margin-top: 15px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1{
+  text-align: center;
+  margin-top: 20px;
+}
+
+h6{
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+input {
+  margin: 20px 20px;
+}
+
+button {
+  margin-left: 10px;
+}
+
+
+
